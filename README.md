@@ -3,7 +3,7 @@ A small free application that will show the current weeknumber in the systemtray
 
 This project will replace the https://github.com/MichielJacobs/Weeknumber project.
 
-# Download and install
+## Download and install
 Downlaod and install the latest version from:
 https://github.com/MichielJacobs/weeknumber_mj/releases/
 
