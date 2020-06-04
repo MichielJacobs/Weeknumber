@@ -1,4 +1,4 @@
-# weeknumber_mj
+# Weeknumber
 A small and free application that will show the current weeknumber in the systemtray of the operating system.
 
 This project will replace the https://github.com/MichielJacobs/Weeknumber project.
