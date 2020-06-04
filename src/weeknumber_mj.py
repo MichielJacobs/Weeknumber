@@ -26,7 +26,7 @@ class SystemTrayIcon(QtWidgets.QSystemTrayIcon):
 		if q.text() == "About":
 			msg = QMessageBox()
 			msg.setTextFormat(Qt.RichText)
-			msg.setText("This app is created by Michiel Jacobs <br> Visit <a href='https://github.com/MichielJacobs/weeknumber_mj'>my github page</a> for more information.")
+			msg.setText("This app is created by Michiel Jacobs <br> Visit <a href='https://github.com/MichielJacobs/weeknumber'>my github page</a> for more information.")
 			msg.setWindowTitle("About weeknumber")
 			msg.exec_()
 
