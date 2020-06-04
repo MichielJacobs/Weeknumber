@@ -3,7 +3,7 @@ A small and free application that will show the current weeknumber in the system
 
 ## Download and install
 Download and install the latest version from:
-https://github.com/MichielJacobs/weeknumber_mj/releases/
+https://github.com/MichielJacobs/Weeknumber/releases
 
 
 ## Donate
